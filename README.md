@@ -1,1 +1,1 @@
-# Cross-Sectional-Momentum-Trading-Strategyi
+# Cross-Sectional-Momentum-Trading-Strategy
